@@ -89,10 +89,10 @@ body{
 }
 
 .video-frame{
-	border: 2px solid #0099ff;
+	border: 1px solid #0099ff;
 	border-bottom: none;
-	margin-left: 125px;
-	margin-right: 125px;
+	margin-left: 7%;
+	margin-right: 7%;
 	margin-top: -30px;
 	margin-bottom: 20px;
 }
@@ -152,16 +152,8 @@ body{
 	.p1{
 		font-size: 500%;
 	}
-	.video-frame{
-	margin: -30px 100px 30px 100px;
-	}
 }
 
-@media (max-width: 768px){
-	.video-frame{
-	margin: -30px 50px 30px 50px;
-	}
-}
 
 @media (max-width: 500px){
 	.p1{
