@@ -97,6 +97,25 @@ body{
 	margin-bottom: 20px;
 }
 
+.d-well{
+	margin-left: 7%;
+	margin-right: 7%;
+	margin-top: 40px;
+}
+
+.btn-down{
+	color: #5e3800;
+	background-color: #deb821;
+	border-color: #5e3800;
+	padding:15px 25px;
+	
+}
+.btn-down:hover{
+	background-color: #5e3800;
+	border-color: #deb821;
+	color: #efefef;
+}
+
 
 .foot{
 	margin-top: 40px;
