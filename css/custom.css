@@ -95,12 +95,14 @@ body{
 	margin-right: 7%;
 	margin-top: -30px;
 	margin-bottom: 20px;
+}
+
+.video{
 	position: relative;
 	padding-bottom: 56.25%;
 }
 
-
-.video-frame iframe{
+.video iframe{
 	position: absolute;
 	width: 100%;
 	height: 100%;
