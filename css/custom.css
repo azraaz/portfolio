@@ -95,12 +95,24 @@ body{
 	margin-right: 7%;
 	margin-top: -30px;
 	margin-bottom: 20px;
+	position: relative;
+	padding-bottom: 56.25%;
 }
+
+
+.video-frame iframe{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+}	
 
 .video-frame-ytube{
 	border: 1px solid #0099ff;
 	border-bottom: none;
-	margin: 0 auto;
+	margin-left: 7%;
+	margin-right: 7%;
+	margin-top: -30px;
+	margin-bottom: 20px;
 }
 
 .d-well{
