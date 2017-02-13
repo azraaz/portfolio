@@ -97,6 +97,13 @@ body{
 	margin-bottom: 20px;
 }
 
+.video-frame-ytube{
+	border: 1px solid #0099ff;
+	border-bottom: none;
+
+	margin: -30px auto 20px;
+}
+
 .d-well{
 	margin-left: 7%;
 	margin-right: 7%;
