@@ -100,8 +100,7 @@ body{
 .video-frame-ytube{
 	border: 1px solid #0099ff;
 	border-bottom: none;
-
-	margin: 20px auto 30px auto;
+	margin: 0 auto;
 }
 
 .d-well{
